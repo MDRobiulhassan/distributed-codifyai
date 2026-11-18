@@ -1,0 +1,2 @@
+com.codifyai.distributed.common_lib.error.SharedExceptionAutoConfiguration
+com.codifyai.distributed.common_lib.security.SharedSecurityAutoConfiguration
